@@ -1,10 +1,9 @@
-```bash
-Truffle version - v5.4.0
-OpenZeppelin version - v2.3
-ERC-721 Token Name - "Star Token"
-ERC-721 Token Symbol - "STK"
-“Token Address” on the Rinkeby Network - 0x0806ad6e2691caa1bd19a73f4a6183d73fec19791
-```
+
+Truffle version - v5.4.0  
+OpenZeppelin version - v2.3  
+ERC-721 Token Name - "Star Token"  
+ERC-721 Token Symbol - "STK"  
+“Token Address” on the Rinkeby Network - [0x0806ad6e2691caa1bd19a73f4a6183d73fec19791](https://rinkeby.etherscan.io/token/0x08af69de81c93b16f588d54cf636e1511510a985)  
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
